@@ -45,7 +45,6 @@ do {
                 alert('Error solo números');
             }
         } while (!error);
-
     }
 
     comprobarOpera();
